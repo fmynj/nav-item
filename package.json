@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "eooce",
   "description": "nav-item-backend",
-  "repository": "https://github.com/eooce/nav-item",
+  "repository": "https://github.com/fmynj/nav-item",
   "license": "MIT",
   "main": "app.js",
   "scripts": {
