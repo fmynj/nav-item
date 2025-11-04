@@ -2,7 +2,7 @@ version: '3'
 
 services:
   nav-item:
-    image: eooce/nav-item
+    image: fmynj/nav-item
     container_name: nav-item
     ports:
       - "3000:3000"
